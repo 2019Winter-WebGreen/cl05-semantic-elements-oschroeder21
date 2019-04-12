@@ -1,0 +1,21 @@
+/*
+* Name
+* Due Date
+* project Name and Description
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {background-color:burlywood;}
+
+header {background-color:darkcyan;}
+
+main {background-color:cornflowerblue;}
+
+footer {background-color:darkblue;}
